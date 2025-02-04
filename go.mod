@@ -1,4 +1,4 @@
-module github.com/Remneva/anti-bruteforce
+module github.com/ivanbatutin921/anti-bruteforce-master
 
 go 1.15
 
